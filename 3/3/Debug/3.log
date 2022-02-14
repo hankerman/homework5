@@ -1,0 +1,48 @@
+﻿  3.cpp
+D:\Lesson\homework5\3\3\3.cpp(171,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Lesson\homework5\3\3\3.cpp(83,13): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+D:\Lesson\homework5\3\3\3.cpp(205): message : выполняется компиляция ссылки на экземпляр шаблон функции "void max<double>(T [],int)"
+          with
+          [
+              T=double
+          ]
+D:\Lesson\homework5\3\3\3.cpp(86,24): warning C4244: =: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+D:\Lesson\homework5\3\3\3.cpp(96,13): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+D:\Lesson\homework5\3\3\3.cpp(206): message : выполняется компиляция ссылки на экземпляр шаблон функции "void max<double>(T [][10],int)"
+          with
+          [
+              T=double
+          ]
+D:\Lesson\homework5\3\3\3.cpp(100,31): warning C4244: =: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+D:\Lesson\homework5\3\3\3.cpp(109,13): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+D:\Lesson\homework5\3\3\3.cpp(207): message : выполняется компиляция ссылки на экземпляр шаблон функции "void max<double>(T [][10][10],int)"
+          with
+          [
+              T=double
+          ]
+D:\Lesson\homework5\3\3\3.cpp(114,38): warning C4244: =: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+  3.vcxproj -> D:\Lesson\homework5\3\Debug\3.exe
